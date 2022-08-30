@@ -9,7 +9,7 @@ Para llegar a una conclusion acerca de la expresion de dicha formula y conocer c
 como dato el periodo de la funcion, se tomo como base dicho elemento.
 
 Si establecemos que:
-#   T(periodo) = 4
+#   T(periodo) = 4b
 Y asumimos que:
 #   T = 2.pi
 Se puede despejar dicha igualdad y obtenemos que:
